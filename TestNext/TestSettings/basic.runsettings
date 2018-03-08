@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  
+  <TestRunParameters>
+    <Parameter name="startUrl" value="http://localhost" />
+    <Parameter name="google" value="http://google.com" />
+    <Parameter name="capsog" value="http://capgeminisogeti.dk/" />
+    <Parameter name="browserstackUser" value="user" />
+    <Parameter name="browserstackKey" value="key" />
+    <Parameter name="browserstackServer" value="server" />
+    <Parameter name="ApiBaseUrl" value="base" />
+  </TestRunParameters>
+
+</RunSettings>
